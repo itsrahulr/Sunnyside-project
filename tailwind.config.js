@@ -22,9 +22,9 @@ module.exports = {
         fraunces: ["Fraunces", "serif"],
       },
       backgroundImage: {
-        imageheader: "URL('/images/desktop/image-header.jpg')",
-        photography: "URL('/images/desktop/image-photography.jpg')",
-        gdesign: "URL('/images/desktop/image-graphic-design.jpg')",
+        imageheader: 'url("/images/desktop/image-header.jpg")',
+        photography: 'url("/images/desktop/image-photography.jpg")',
+        gdesign: 'url("/images/desktop/image-graphic-design.jpg")',
       },
     },
   },
